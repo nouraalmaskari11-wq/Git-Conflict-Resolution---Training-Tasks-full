@@ -3,3 +3,15 @@ Tuesday: Frontend Development
 Wednesday: Backend Development
 Thursday: Integration Testing
 Friday: Code Review and Deployment
+Monday: Team Meeting
+Tuesday-Wednesday: Development Sprint
+Thursday: Testing
+Friday: Review
+
+| **Day**       | **Focus / Activities**                    |
+| ------------- | ----------------------------------------- |
+| **Monday**    | Team Meeting and Planning                 |
+| **Tuesday**   | Frontend Development / Development Sprint |
+| **Wednesday** | Backend Development / Development Sprint  |
+| **Thursday**  | Integration Testing / Testing             |
+| **Friday**    | Code Review and Deployment / Review       |
